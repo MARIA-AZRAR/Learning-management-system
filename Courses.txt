@@ -1,0 +1,5 @@
+CS101, Pogramming Fundamentals,3,4
+HU301,English,2,4
+CS104,ITC,3,1
+MA103,Workshop Practice,1,1
+HU401, C SKILLS,1,4
