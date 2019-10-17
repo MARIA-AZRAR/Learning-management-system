@@ -1,6 +1,4 @@
 
-// MARIA AZRAR
-// 2018-CS-50
 
 #include<iostream>        //to take input output
 #include<string>          //to use string datatype
@@ -804,7 +802,7 @@ int main()
 {   
                         
     cout<<endl<<endl<<"\t\t\t*************Welcome to University Learning Management System**************" <<endl;
-	cout<<endl<<"\t\t\t                               By MARIA AZRAR"<<endl<<endl;
+	cout<<endl<<"\t\t\t                               "<<endl<<endl;
 	   
    string UsersList[30],passwordsList[30];                   //arrays for users list and password list
    LoadCourses(cCode,CH,semester,cName);                     //in order to load all course 
